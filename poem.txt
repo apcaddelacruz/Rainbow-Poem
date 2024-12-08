@@ -4,5 +4,6 @@ Purple
 Pink
 Orange
 Blue
+Recycle!
 Red
 These are the colors of the rainbow.
